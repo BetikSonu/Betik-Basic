@@ -1,2 +1,2 @@
 # Betik-Basic
-Ekibin en temel kodlamalarını sakladığı repo .
+Klasör içerisindeki dillerden kodladdığımız temel kodlara erişebilirsiniz . Projeyi forklayarak kendi verileriniz ile bütünleştirebilirsiniz.
