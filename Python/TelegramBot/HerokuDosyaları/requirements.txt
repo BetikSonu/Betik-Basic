@@ -1,0 +1,5 @@
+requests==2.23.0
+google_search_client==0.1
+pytz==2019.3
+Pyrogram==0.16.0
+beautifulsoup4==4.9.0
