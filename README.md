@@ -1,4 +1,5 @@
 # Betik-Basic
-Klasör içerisindeki dillerden kodladdığımız temel kodlara erişebilirsiniz . Projeyi forklayarak kendi verileriniz ile bütünleştirebilirsiniz.
+
+__BetikSonu Basit Laboratuvarı__
 
 <p>Bir <a style="color:green" href="https://t.me/BetikSonu" target="_blank">@BetikSonu</a> projesi .
